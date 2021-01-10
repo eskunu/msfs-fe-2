@@ -1,4 +1,4 @@
-Calling Pilots Experienced with Mountain and Bush Flying!
+Calling Pilots with Mountain and Bush Flying Experience!
 
 We are seeking pilots with mountain and bush flying experience to ferry University students conducting various geological surveys around the glacial valleys of Mount Blanc. They will need to be transported directly to the glaciers and lakes, along with their equipment, for their experiments.
 
@@ -12,13 +12,29 @@ The University of Colorado, USA and University of Padova, Italy are teaming up f
 
 Pilots are authorized to fly VFR but should expect some incident encounters of IMC due to the elevation, mountainous terrain, and some potential for icing.
 
+Due to the terrain, landing requirements, and staff preference (they wish to fly as low as possible to identify landmarks) any single engine standard propellor aircraft will be available for flight planning.
+
 ## Routing
 
-![Figure 3](images/Map-SurroundingAreaVOR.PNG "Figure 3")Nav Map with Relief
+The area immediately around the LIMA airport is a relatively flat 3 - 3,000'. Twenty miles West and North of the airport are ridges at about 5 - 5,000' and peaks up to 15 - 15,000'.
+
+The valley into Aosta remains at about 3 - 3,000'. However, the saddle between Aosta and Megeve (SW of Mount Blanc) is about 7 - 7,000'. Pilots will need to climb to and maintain approximately 8,000' to safely clear the saddle while also remaining below clouds.
+
+![Figure 3](images/Map-SurroundingAreaVOR.PNG "Figure 3")Topographic Navigation Map
+
+Above is a topographic map of the route. Departure airport is to the bottom right while the enroute airport is the top center, and the arrival airport is top left. Especially note the terrain elevation between the midway airport, Aosta, and the arrival airport, Megev. Also, note the VOR radio locations and frequencies in the event of GPS equipment failure or IMC.
+
+We plan to depart Turin heading N-NW, turn into the valley toward Aosta following the river, follow the river-valley until it reaches Mount Blanc, turn left and climb heading SW until we're out of the mountain range. Finally, we land at Megev.
+
+![Figure 4](images/Map-Imagery.PNG "Figure 4")Relief Map showing Route
+
+![Figure 5](images/Map-Topo.PNG "Figure 5")Landmark Map showing Route
 
 ## Safety Briefing
 
-Icing may be encountered at or around 1-0 10,000 ft ASL. In the event of icing or IMC pilots should immediately verbally state intentions, and descend and land at any nearby airport, airstrip, field, or roadway until conditions subside.
+Icing may be encountered at or around 1-0 10,000 ft ASL. In the event of icing or IMC pilots should immediately verbally state intentions, and descend and land at any nearby airport, airstrip, field, or roadway until conditions subside. Each plane will be transporting passengers and equipment and should plan for appropriate fuel and weight.
+
+Flight should last approximately 1 hour. Bring enough fuel for ~2 hours. There are multiple airports with refueling en route.
 
 ## ATIS / Weather:
 0745 Local Time
@@ -27,7 +43,7 @@ Scattered clouds bottoms 10000 tops 12000
 
 Scattered clouds bottoms 20000 tops 25000 
 
-Winds 270 at 10 5,000
+Winds 270 10 at 5,000
 
 ## Pre-Departure:
 
@@ -38,9 +54,6 @@ Runway Orientation: 10L/28R
 Tune NAV radio to AOSTA: 109.25 (secondary)
 
 Tune NAV radio to TORINA CASELLE: 116.75 (primary)
-
-![Figure 4](images/Map-Topo.PNG "Figure 4")Relief-Navigation View
-
 
 ## Departure:
 Lineup for and hold short runway 28R.
