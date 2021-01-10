@@ -1,17 +1,15 @@
 Calling All Bush Pilots!
 
-The Universitys of Colorado, USA and Padova, Italy  asked University students to survey glaciers and the many glacial valleys in and around  area. This is part of a scientific study as well as an exercise to teach the accompanying university youth about surveying, orientation and navigation in the backcountry, topography, and other geological details.
+We need pilots with mountain and bush flying experience to ferry University students conducting various geological experiments in the glacial valleys of Mount Blanc. The students will also be practicing their skills of aerial survey and orientation, the students will be identifying landmarks from the air and conduct scouting runs to mark areas of geological interest.
 
- as part of a study and training exercise for students
+The University of Colorado, USA and University of Padova, Italy are teaming up for a geological survey of the area immediately surrounding Mount Blanc. The American and Italian passengers will need to be picked up in Turin, Italy, and flown to various destinations in the mountains to conduct scientific surveys. The students will also be practicing the skill of aerial survey by identifying landmakrs from the air and conducting scouting runs to mark areas of geological interest. about the topography and orientation via a Scavenger Hunt, and will capture soil and vegetation contrast lines on the ground to identify fault lineaments. Finally, the University staff are treating the pilots and students to a skiing trip in Aosta and dinner in Megeve.
 
-and have asked us to take their students and professors up to teach the students about orientation, navigation in the backcountry, 
-We are a geology school and our students are learning about orientation, topography, 
 
 ![Figure 1](images/Aosta.jpg "Figure 1")Figure 1
 
 ![Figure 1](images/Aosta2.jpg "Figure 1")Figure 1
 
-![Figure 1](images/La Palud.png "Figure 1")Figure 1
+![Figure 1](images/La_Palud.png "Figure 1")Figure 1
 
 ![Figure 1](images/Map-Imagery.PNG "Figure 1")Figure 1
 
@@ -38,6 +36,8 @@ We have several clients who are participating in a Scavenger Hunt
 
 # Flight Planning
 
+Pilots are allowed to fly via VFR but should expect some incident encounters of IMC due to the elevation and mountainous terrain.
+
 ## Safety Briefing
 
 Icing may be encountered at or around 1-0 10,000 ft ASL. In the event of icing or IMC pilots should immediately verbally state intentions, and descend and land at any nearby airport, airstrip, field, or roadway until conditions subside.
@@ -47,7 +47,7 @@ Icing may be encountered at or around 1-0 10,000 ft ASL. In the event of icing o
 
 Scattered clouds bottoms 10000 tops 12000
 
-Scatter clouds bottoms 20000 tops 25000 
+Scattered clouds bottoms 20000 tops 25000 
 
 Winds 270 at 10 5,000
 
@@ -73,14 +73,16 @@ Upon departure, turn left heading 300
 **If VOR:**
 
 Upon departure,
-Fly direct to LIMF VOR (116.75)
+
+Make left traffic to LIMF VOR (116.75)
 
 Fly from LIMF VOR (116.75) @ HDG 300. Maintain VFR.
 
-Intercept AOSTA @ 200 & navigate VFR to Aosta (LIMW)
+Intercept LIMW @ 200 & maintain VFR to LIMW
 
 ## Flight Plan
-### VFR only approved. However, pilots should expect some incidental IMC
+
+VFR is approved. However, pilots should expect some incidental IMC
 
 LIMA > LIMO > LINS > LIMW 
 
