@@ -1,9 +1,35 @@
 Calling All Bush Pilots!
 
-Our student pilots and CFIs are parterning with the 
+The Universitys of Colorado, USA and Padova, Italy  asked University students to survey glaciers and the many glacial valleys in and around  area. This is part of a scientific study as well as an exercise to teach the accompanying university youth about surveying, orientation and navigation in the backcountry, topography, and other geological details.
+
+ as part of a study and training exercise for students
+
+and have asked us to take their students and professors up to teach the students about orientation, navigation in the backcountry, 
 We are a geology school and our students are learning about orientation, topography, 
 
 ![Figure 1](images/Aosta.jpg "Figure 1")Figure 1
+
+![Figure 1](images/Aosta2.jpg "Figure 1")Figure 1
+
+![Figure 1](images/La Palud.png "Figure 1")Figure 1
+
+![Figure 1](images/Map-Imagery.PNG "Figure 1")Figure 1
+
+![Figure 1](images/Map-SurroundingAreaVOR.PNG "Figure 1")Figure 1
+
+![Figure 1](images/Map-Topo.PNG "Figure 1")Figure 1
+
+![Figure 1](images/wp1-1.jpg "Figure 1")Figure 1
+
+![Figure 1](images/wp1-2.jpg "Figure 1")Figure 1
+
+![Figure 1](images/wp1-3.PNG "Figure 1")Figure 1
+
+![Figure 1](images/wp1-4.PNG "Figure 1")Figure 1
+
+![Figure 1](images/wp2-1.PNG "Figure 1")Figure 1
+
+![Figure 1](images/wp2-2.PNG "Figure 1")Figure 1
 
 We are seeking bush pilots experienced in mountain flying and navigation to take several clients up to
 
