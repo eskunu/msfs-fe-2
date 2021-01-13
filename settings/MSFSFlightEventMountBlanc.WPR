@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="WeatherPreset" version="1,3">
+    <Descr>AceXML Document</Descr>
+    <WeatherPreset.Preset>
+        <Name>MSFS Flight Event Mount Blanc</Name>
+        <Image>weather/presets/snow.jpg</Image>
+        <Icon>weather/presets/snow_layer.svg</Icon>
+        <LayeredImage>weather/presets/snow_layer.png</LayeredImage>
+        <IsAltitudeAMGL>True</IsAltitudeAMGL>
+        <CloudLayer>
+            <CloudLayerDensity Value="0.539" Unit="(0 - 1)">
+            </CloudLayerDensity>
+            <CloudLayerAltitudeBot Value="3060.232" Unit="m">
+            </CloudLayerAltitudeBot>
+            <CloudLayerAltitudeTop Value="3807.232" Unit="m">
+            </CloudLayerAltitudeTop>
+            <CloudLayerScattering Value="0.513" Unit="(0 - 1)">
+            </CloudLayerScattering>
+        </CloudLayer>
+        <CloudLayer>
+            <CloudLayerDensity Value="0.500" Unit="(0 - 1)">
+            </CloudLayerDensity>
+            <CloudLayerAltitudeBot Value="5957.837" Unit="m">
+            </CloudLayerAltitudeBot>
+            <CloudLayerAltitudeTop Value="7366.837" Unit="m">
+            </CloudLayerAltitudeTop>
+            <CloudLayerScattering Value="0.539" Unit="(0 - 1)">
+            </CloudLayerScattering>
+        </CloudLayer>
+        <CloudLayer>
+            <CloudLayerDensity Value="0.750" Unit="(0 - 1)">
+            </CloudLayerDensity>
+            <CloudLayerAltitudeBot Value="17150.395" Unit="m">
+            </CloudLayerAltitudeBot>
+            <CloudLayerAltitudeTop Value="17400.395" Unit="m">
+            </CloudLayerAltitudeTop>
+            <CloudLayerScattering Value="0.500" Unit="(0 - 1)">
+            </CloudLayerScattering>
+        </CloudLayer>
+        <WindLayer>
+            <WindLayerAltitude Value="1461.977" Unit="m">
+            </WindLayerAltitude>
+            <WindLayerAngle Value="270.000" Unit="degrees">
+            </WindLayerAngle>
+            <WindLayerSpeed Value="10.114" Unit="knts">
+            </WindLayerSpeed>
+        </WindLayer>
+        <MSLPressure Value="101325.000" Unit="pa">
+        </MSLPressure>
+        <MSLTemperature Value="268.150" Unit="k">
+        </MSLTemperature>
+        <AerosolDensity Value="6.000" Unit="m">
+        </AerosolDensity>
+        <Precipitations Value="15.000" Unit="mm/h">
+        </Precipitations>
+        <SnowCover Value="0.299" Unit="m">
+        </SnowCover>
+        <ThunderstormIntensity Value="0.000" Unit="(0 - 1)">
+        </ThunderstormIntensity>
+    </WeatherPreset.Preset>
+</SimBase.Document>
