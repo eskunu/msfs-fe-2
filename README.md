@@ -1,6 +1,4 @@
-Calling Pilots with Mountain Flying Experience!  A bush flight and scavenger hunt is scheduled for Saturday January 16
-
-# Calling Pilots with Mountain and Bush Flying Experience!
+# Calling Pilots with Mountain Flying Experience!  A bush flight and scavenger hunt is scheduled for Saturday January 16
 
 We are seeking pilots with mountain and bush flying experience to ferry University students conducting various geological surveys around the glacial valleys of Mount Blanc. Pilots are authorized to fly VFR. Incident encounters of IMC due to the cloud layer, mountainous terrain, and some potential for icing may occur.
 
@@ -18,11 +16,11 @@ Date: Saturday, January 16th, 2020
 
 Time: 11 AM PST, 2 PM EST, 7 PM UTC (subject to change)
 
+Server: US East
+
 Event Duration: 60-90 minutes
 
 Discord: https://discord.gg/GRYwahVZPk
-
-Server: US East
 
 Settings: All Players, Custom Weather
 
@@ -32,7 +30,7 @@ Weather: 0730 Local Time Scattered cloud bottoms 10000 tops 12000 Scattered clou
 
  Alternatively you can download the weather settings below:
 
-[Weather settings](settings/MSFSFlightEventMountBlanc.WPR) - Download this file and save to this location on your desktop:
+[Weather settings](https://www.dropbox.com/s/uafipamkt8e6t9c/MSFSFlightEventMountBlanc.WPR?dl=0) - Download this file and save to this location on your desktop:
 
         C:\Users\<YOUR-USERNAME>\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalState\Weather\Presets
 
@@ -86,12 +84,12 @@ Tune NAV radio to AOSTA: 109.25 (secondary)
 Tune NAV radio to TORINA CASELLE: 116.75 (primary)
 
 ## Departure:
-Lineup for and hold short runway 28R. When cleared, upon takeoff climb and maintain 4 - 4,000' and turn left heading 020.
+Lineup for and hold short runway 28R. When cleared, upon takeoff climb and maintain 4 - 4,000' and turn left heading 030.
 
 ### If VOR:
 
     Upon departure, make left traffic then direct to LIMF VOR (116.75)
-    Fly from LIMF VOR (116.75) @ HDG 020. Maintain VFR.
+    Fly from LIMF VOR (116.75) @ HDG 030. Maintain VFR.
     Intercept LIMW @ 300 & navigate HDG 330 to LIMW. Maintain VFR
 
 
@@ -112,7 +110,3 @@ Details to come.
 ![Figure 1](images/wp2-1.PNG "Figure 1")Figure 1
 
 ![Figure 1](images/wp2-2.PNG "Figure 1")Figure 1
-
-Nav     
-113.5
-114.1
