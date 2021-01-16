@@ -38,7 +38,7 @@ Aircraft: Single engine standard propeller. Inquire event coordinator for except
 
 # Flight Planning
 
-Destination Turin Airport (LIMA) Elevation: 989' MSL 10L/28R
+Departure Turin Airport (LIMA) Elevation: 989' MSL 10L/28R
 
 Enroute Aosta Airport (LIMW) Elevation: 1796' MSL 09/27
 
@@ -97,16 +97,20 @@ Lineup for and hold short runway 28R. When cleared, upon takeoff climb and maint
 
 Details to come.
 
-# Aerial Landmarks
+This building is a refuge for backpackers and adventures. Identify landmarks in the photo to find the  Locate the building by landing and parking your aircraft next to it. Get out, stretch your legs, and get some coffee!
 
-![Figure 1](images/wp1-1.jpg "Figure 1")Figure 1
+![Scavenger 1](images/wp1-1.jpg "Scavenger 1")Figure 1
 
-![Figure 1](images/wp1-2.jpg "Figure 1")Figure 1
+![Scavenger 1](images/wp1-2.jpg "Scavenger 1")Figure 1
 
-![Figure 1](images/wp1-3.PNG "Figure 1")Figure 1
+![Scavenger 1](images/wp1-3.PNG "Scavenger 1")Figure 1
 
 ![Figure 1](images/wp1-4.PNG "Figure 1")Figure 1
+
+This Chapeiux is located in a beautiful, quaint village in the mountains. Fly over it and tip your wings to say hi!
 
 ![Figure 1](images/wp2-1.PNG "Figure 1")Figure 1
 
 ![Figure 1](images/wp2-2.PNG "Figure 1")Figure 1
+
+What is the city located at bearing 030 Caselle and 300 Aosta VOR?
